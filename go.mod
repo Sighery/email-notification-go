@@ -6,5 +6,5 @@ require (
 	github.com/spf13/cobra v1.1.3
 	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
-	google.golang.org/api v0.47.0
+	google.golang.org/api v0.48.0
 )
